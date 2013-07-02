@@ -26,7 +26,7 @@ namespace AutoBrowse
             webBrowser.Navigate(new Uri("http://google.com"));
         }
 
-        //redirect to address
+        //redirect to address, should call a timer to navigate automatically
         private void btnLoadPage_Click(object sender, RoutedEventArgs e)
         {
             string url = txtAddress.Text.ToLower().Contains("http://") ? txtAddress.Text : "http://" + txtAddress.Text;
