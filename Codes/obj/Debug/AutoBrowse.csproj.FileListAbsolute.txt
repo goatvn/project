@@ -1,0 +1,17 @@
+D:\Test\AutoBrowse\AutoBrowse\bin\Debug\AutoBrowse.exe.config
+D:\Test\AutoBrowse\AutoBrowse\bin\Debug\AutoBrowse.exe
+D:\Test\AutoBrowse\AutoBrowse\bin\Debug\AutoBrowse.pdb
+D:\Test\AutoBrowse\AutoBrowse\obj\Debug\AutoBrowse.csprojResolveAssemblyReference.cache
+D:\Test\AutoBrowse\AutoBrowse\obj\Debug\MainWindow.baml
+D:\Test\AutoBrowse\AutoBrowse\obj\Debug\MainWindow.g.cs
+D:\Test\AutoBrowse\AutoBrowse\obj\Debug\App.g.cs
+D:\Test\AutoBrowse\AutoBrowse\obj\Debug\AutoBrowse_MarkupCompile.cache
+D:\Test\AutoBrowse\AutoBrowse\obj\Debug\AutoBrowse.g.resources
+D:\Test\AutoBrowse\AutoBrowse\obj\Debug\AutoBrowse.Properties.Resources.resources
+D:\Test\AutoBrowse\AutoBrowse\obj\Debug\AutoBrowse.csproj.GenerateResource.Cache
+D:\Test\AutoBrowse\AutoBrowse\obj\Debug\AutoBrowse.exe
+D:\Test\AutoBrowse\AutoBrowse\obj\Debug\AutoBrowse.pdb
+D:\Test\AutoBrowse\AutoBrowse\bin\Debug\AutoBrowse.exe.manifest
+D:\Test\AutoBrowse\AutoBrowse\bin\Debug\AutoBrowse.application
+D:\Test\AutoBrowse\AutoBrowse\obj\Debug\AutoBrowse.exe.manifest
+D:\Test\AutoBrowse\AutoBrowse\obj\Debug\AutoBrowse.application
